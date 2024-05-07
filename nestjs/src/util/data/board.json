@@ -1,0 +1,22 @@
+[
+  { "id": 1, "title": "Post 1", "author": "Mike", "content": "Post 1 Content" },
+  {
+    "id": 2,
+    "title": "Post 2",
+    "author": "James",
+    "content": "Post 2 Content"
+  },
+  {
+    "id": 3,
+    "title": "Post 3",
+    "author": "Willie",
+    "content": "Post 3 Content"
+  },
+  { "id": 4, "title": "Post 4", "author": "Sam", "content": "Post 4 Content" },
+  {
+    "id": 5,
+    "title": "Post 5",
+    "author": "Jisoo",
+    "content": "Post 5 Content"
+  }
+]

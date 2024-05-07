@@ -1,0 +1,21 @@
+{
+  "name": "skkuding-study-week6-ref",
+  "version": "1.0.0",
+  "private": true,
+  "description": "migrate express to nest",
+  "author": "jspark2000",
+  "workspaces": [
+    "./express",
+    "./nestjs"
+  ],
+  "devDependencies": {
+    "@eslint/js": "^9.2.0",
+    "eslint": "^9.2.0",
+    "eslint-config-prettier": "^9.1.0",
+    "globals": "^15.1.0",
+    "prettier": "3.2.5"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2"
+  }
+}
